@@ -1,0 +1,45 @@
+{
+    "tipoDocumento": ".docx",
+    "estructura" : [
+      {
+        "tipo": "inputText",
+        "dimension" : 6,
+        "data": null
+      },
+      {
+        "tipo": "inputText",
+        "dimension" : 6,
+        "data": null
+      },
+      {
+        "tipo": "select",
+        "dimension" : 6,
+        "data": null
+      },
+      {
+        "tipo": "calendar",
+        "dimension" : 4,
+        "data": null
+      },
+      {
+        "tipo": "calendar",
+        "dimension" : 4,
+        "data": null
+      },
+      {
+        "tipo": "inputText",
+        "dimension" : 4,
+        "data": null
+      },
+      {
+        "tipo": "inputText",
+        "dimension" : 6,
+        "data": null
+      },
+      {
+        "tipo": "inputText",
+        "dimension" : 4,
+        "data": null
+      }
+    ]
+}
